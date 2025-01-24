@@ -1,6 +1,6 @@
 # ProjetoIntegradoT2
 
-Made by: Victor Alberti, Kauâ Ribeiro, Júlio Magalhães e Samuel Farias.
+Made by: Victor Alberti, Kauâ Ribeiro, Júlio Magalhães and Samuel Farias.
 
 This project was developed in Brazil, so Readme.md is in portuguese.
 
